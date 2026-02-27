@@ -1,6 +1,7 @@
 name: 大神股票分析
  
   # 手动触发
+on:
   workflow_dispatch:
     inputs:
       mode:
